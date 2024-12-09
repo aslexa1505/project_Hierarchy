@@ -1,0 +1,12 @@
+/* Стиль для контейнера приложения */
+.app-container {
+  padding: 20px;
+}
+  
+/* Стиль для контейнера дерева */
+.tree-container {
+  border: 1px solid #f0f0f0;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: #fafafa;
+}
